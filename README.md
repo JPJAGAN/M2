@@ -1,3 +1,6 @@
+# NAME: JAGAN JP
+# REG.NO: 212224230099
+
 # EX-06 - Looping
 ## AIM:
 Write a C program to print even numbers ranging from M to N (including M and N values).
@@ -13,22 +16,20 @@ Write a C program to print even numbers ranging from M to N (including M and N v
 
 ## PROGRAM:
 
+![Screenshot 2025-04-27 134355](https://github.com/user-attachments/assets/ccb21ecf-6b9c-4a44-aaf9-017f573146d7)
+
+## INPUT:
+
+![Screenshot 2025-04-27 134402](https://github.com/user-attachments/assets/f4e5b77d-7a93-4b96-84a6-f89b1f14d227)
+
 ## OUTPUT:
 
-
-
-
-
-
-
-
-
+![Screenshot 2025-04-27 134407](https://github.com/user-attachments/assets/b2c99698-5c20-4b76-abbb-7e9b17fb6fef)
 
 ## RESULT:
 Thus the program to print even numbers ranging from M to N (including M and N values) has been executed successfully
  
  
-
 
 # EX-07-Nested-loop
 
@@ -46,21 +47,22 @@ Write a C program to print the given triangular pattern using loop.
 
 ## PROGRAM:
 
+![Screenshot 2025-04-27 134540](https://github.com/user-attachments/assets/64de1b29-5bea-4fc6-a659-c81fe7499626)
+
+## INPUT:
+
+![Screenshot 2025-04-27 134547](https://github.com/user-attachments/assets/924a733a-7b79-47db-b993-e9bb9db89a09)
 
 ## OUTPUT:
 
-
-
-
+![Screenshot 2025-04-27 134555](https://github.com/user-attachments/assets/a3609797-233e-4a2b-8f27-d199fa72fd5f)
 
 ## RESULT:
 
 Thus the program to print the given triangular pattern using loop has been executed successfully
  
- 
 
-
-# EX-08-Functions
+## EX-08-Functions
 
 ## AIM:
 
@@ -75,13 +77,15 @@ Write a C program to perform addition and subtraction of two numbers using funct
 
 ## PROGRAM:
 
+![Screenshot 2025-04-27 134900](https://github.com/user-attachments/assets/3f746916-1d06-4809-be50-bec4abd8a00e)
+
+## INPUT:
+
+![Screenshot 2025-04-27 134906](https://github.com/user-attachments/assets/a0db1316-c96b-4fb8-87a8-cae71f106ce3)
 
 ## OUTPUT:
 
-
-
-
-
+![Screenshot 2025-04-27 134911](https://github.com/user-attachments/assets/7260d2e9-9441-4298-8c66-51331c806663)
 
 ## RESULT:
 
@@ -107,11 +111,15 @@ Write a c program to find the sum of odd digits using for loop
 
 ## PROGRAM:
 
+![Screenshot 2025-04-27 135108](https://github.com/user-attachments/assets/d6bcdc10-c834-41d1-a17b-a8229ae7b329)
+
+## INPUT:
+
+![Screenshot 2025-04-27 135113](https://github.com/user-attachments/assets/2a0d1852-3af4-494c-b6d1-5ab23196db59)
 
 ## OUTPUT:
 
-
-
+![Screenshot 2025-04-27 135119](https://github.com/user-attachments/assets/3319adb0-57a3-4df2-967b-548d6e58756a)
 
 ## RESULT:
 
@@ -137,8 +145,15 @@ d.	After the loop, print the factorial value.
 
 ## PROGRAM:
 
+![Screenshot 2025-04-27 135318](https://github.com/user-attachments/assets/7f5176d1-7b44-4bec-a3e9-6865a1753878)
+
+## INPUT:
+
+![Screenshot 2025-04-27 135325](https://github.com/user-attachments/assets/3fd81731-9ea3-4a52-ab28-772ac4340277)
 
 ## OUTPUT:
+
+![Screenshot 2025-04-27 135329](https://github.com/user-attachments/assets/21946a68-8683-451a-8b49-a894619bf66b)
 
 ## RESULT:
 The program correctly computes the factorial of a given number using a separate function and displays the result.
